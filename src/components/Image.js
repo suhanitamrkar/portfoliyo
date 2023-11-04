@@ -8,6 +8,7 @@ function Image() {
         class="img-fluid"
         alt="..."
       />
+      <h1>new work</h1>
     </div>
   );
 }
