@@ -104,7 +104,7 @@ function Home() {
         </div>
         <div
           style={{
-            width: "50%",
+            width: "350%",
             height: "400px",
           }}
         >
